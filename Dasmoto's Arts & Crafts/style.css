@@ -1,0 +1,27 @@
+body
+{
+	font-family: Helvetica;
+}
+.one
+{
+	background-image: url(img1.jpeg);
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+}
+
+.Bru
+{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+.bcost
+{
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
